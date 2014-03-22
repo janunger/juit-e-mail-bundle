@@ -1,0 +1,6 @@
+parameters:
+
+services:
+    juit_e_mail.e_mail_factory:
+        class: JUIT\EMailBundle\Service\EMailFactory
+        arguments: [%default_e_mail_sender_address%, %default_e_mail_sender_name%]
