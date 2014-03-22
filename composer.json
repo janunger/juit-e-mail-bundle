@@ -1,0 +1,24 @@
+{
+    "name": "juit/e-mail-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jan Unger",
+            "email": "ju@juit.de"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "symfony/swiftmailer-bundle": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "@stable"
+    },
+    "config": {
+        "bin-dir": "bin"
+    }
+}
