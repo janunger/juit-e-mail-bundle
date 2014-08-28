@@ -1,6 +1,6 @@
 <?php
 
-namespace JUIT\EMailBundle\Command;
+namespace Juit\EMailBundle\Command;
 
 use RuntimeException;
 use Symfony\Component\Console\Input\InputArgument;

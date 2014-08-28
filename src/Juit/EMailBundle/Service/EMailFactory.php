@@ -1,6 +1,6 @@
 <?php
 
-namespace JUIT\EMailBundle\Service;
+namespace Juit\EMailBundle\Service;
 
 use Swift_Message;
 

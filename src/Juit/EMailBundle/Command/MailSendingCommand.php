@@ -1,6 +1,6 @@
 <?php
 
-namespace JUIT\EMailBundle\Command;
+namespace Juit\EMailBundle\Command;
 
 use Swift_FileSpool;
 use Symfony\Bundle\FrameworkBundle\Command\ContainerAwareCommand;

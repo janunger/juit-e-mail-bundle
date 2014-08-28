@@ -1,8 +1,8 @@
 <?php
 
-namespace JUIT\EMailBundle\Tests\Service;
+namespace Juit\EMailBundle\Tests\Service;
 
-use JUIT\EMailBundle\Service\EMailFactory;
+use Juit\EMailBundle\Service\EMailFactory;
 
 class EMailFactoryTest extends \PHPUnit_Framework_TestCase
 {
